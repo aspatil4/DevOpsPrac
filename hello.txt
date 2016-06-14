@@ -1,0 +1,2 @@
+This is a sample for testing GIT branching and merging yo Niggaassss!!
+This is a change to this sample..
